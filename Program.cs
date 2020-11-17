@@ -10,7 +10,7 @@ namespace _31.fibonacciNumbValue
             int n = int.Parse(Console.ReadLine()); //n number in the row ?
             if (n <= 1 && n > 0 )
             {
-                Console.WriteLine(1); //the first number in Fibonacci row is 1;
+                Console.WriteLine(1); //the value of first number in Fibonacci row is 1;
                 Console.WriteLine("the first MemberNumber value in Fibonacci's row is 1");
             }
             else if( n >= 2)
