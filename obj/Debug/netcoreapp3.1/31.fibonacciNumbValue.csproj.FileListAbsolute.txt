@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\DataTypes\31.fibonacciNumbValue\bin\Debug\netcoreapp3.1\31.fibonacciNumbValue.exe
+C:\Users\Bla\source\repos\DataTypes\31.fibonacciNumbValue\bin\Debug\netcoreapp3.1\31.fibonacciNumbValue.deps.json
+C:\Users\Bla\source\repos\DataTypes\31.fibonacciNumbValue\bin\Debug\netcoreapp3.1\31.fibonacciNumbValue.runtimeconfig.json
+C:\Users\Bla\source\repos\DataTypes\31.fibonacciNumbValue\bin\Debug\netcoreapp3.1\31.fibonacciNumbValue.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\DataTypes\31.fibonacciNumbValue\bin\Debug\netcoreapp3.1\31.fibonacciNumbValue.dll
+C:\Users\Bla\source\repos\DataTypes\31.fibonacciNumbValue\bin\Debug\netcoreapp3.1\31.fibonacciNumbValue.pdb
+C:\Users\Bla\source\repos\DataTypes\31.fibonacciNumbValue\obj\Debug\netcoreapp3.1\31.fibonacciNumbValue.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\DataTypes\31.fibonacciNumbValue\obj\Debug\netcoreapp3.1\31.fibonacciNumbValue.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\DataTypes\31.fibonacciNumbValue\obj\Debug\netcoreapp3.1\31.fibonacciNumbValue.AssemblyInfo.cs
+C:\Users\Bla\source\repos\DataTypes\31.fibonacciNumbValue\obj\Debug\netcoreapp3.1\31.fibonacciNumbValue.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\DataTypes\31.fibonacciNumbValue\obj\Debug\netcoreapp3.1\31.fibonacciNumbValue.dll
+C:\Users\Bla\source\repos\DataTypes\31.fibonacciNumbValue\obj\Debug\netcoreapp3.1\31.fibonacciNumbValue.pdb
+C:\Users\Bla\source\repos\DataTypes\31.fibonacciNumbValue\obj\Debug\netcoreapp3.1\31.fibonacciNumbValue.genruntimeconfig.cache
