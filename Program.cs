@@ -6,7 +6,7 @@ namespace _31.fibonacciNumbValue
     {
         static void Main(string[] args)
         {
-            Console.Write("n = ");
+            Console.Write("n = ");  //let base member value = 0, firstMember value be, 1;
             int n = int.Parse(Console.ReadLine()); //n number in the row ?
             if (n <= 1 && n > 0 )
             {
